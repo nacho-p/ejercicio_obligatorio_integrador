@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_integrador", "ejercicio_integrador.csproj", "{0525944E-9125-4DA3-9E35-C9764518A5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0525944E-9125-4DA3-9E35-C9764518A5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0525944E-9125-4DA3-9E35-C9764518A5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0525944E-9125-4DA3-9E35-C9764518A5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0525944E-9125-4DA3-9E35-C9764518A5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96696C24-9E8B-4802-9AA4-5BF128002621}
+	EndGlobalSection
+EndGlobal
